@@ -2,3 +2,4 @@ rencana aplikasi mobile
 
 -belajar bahasa pemrograman java
 -membuat tampilan aplikasi mobile jadi lebih cantik
+-belajar android studio
