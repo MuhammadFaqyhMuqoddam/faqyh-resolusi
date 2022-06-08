@@ -4,3 +4,4 @@ rencana aplikasi mobile
 -membuat tampilan aplikasi mobile jadi lebih cantik
 -belajar android studio
 -sering belajar yang berhubungan dengan aplikasi mobile
+-membuat alur lebih kompleks
